@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @lahit1
 - 👀 My profession is Java
-- 🌱 I’m currently learning Java, C++, Ruby
