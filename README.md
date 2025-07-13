@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @lahit1
-- 👀 My profession is Java
+- 👋 Hi, looking for a programer? Well, welcome then
+- 👀 Why tell when I can show?.. Aren't you here already because of that ;)
